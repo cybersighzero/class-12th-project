@@ -41,6 +41,5 @@ All activity is logged into a file called `GAME_CENTER!.csv`.
 ## Author
 
 Pratima Narang
-Class 12 – CBSE Board
 AKA cybersighzero
 https://github.com/cybersighzero
