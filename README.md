@@ -37,3 +37,8 @@ All activity is logged into a file called `GAME_CENTER!.csv`.
 - Simple logic-based encryption (Caesar cipher style)
 
 ---
+
+## Author
+
+Pratima Narang
+Class 12 – CBSE Board
