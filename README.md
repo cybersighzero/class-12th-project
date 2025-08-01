@@ -41,6 +41,6 @@ All activity is logged into a file called `GAME_CENTER!.csv`.
 ## Author
 
 - Pratima Narang
-AKA (cybersighzero)[https://github.com/cybersighzero]
+AKA [cybersighzero](https://github.com/cybersighzero)
 - Abushka
-AKA (anushkaio)[https://github.com/anushkaio]
+AKA [anushkaio](https://github.com/anushkaio)
